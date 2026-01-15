@@ -1,0 +1,10 @@
+# Ignore compiled programs
+*.exe
+*.obj
+*.pdb
+
+# Ignore specific folders
+notepad++/
+.vs/
+Debug/
+Release/
